@@ -43,7 +43,7 @@ void loop()
   }
   else if( average <distance)
   {
-    average=average+2;
+    average=average+1;
   }
     if(distance<100)
     {
